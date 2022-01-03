@@ -1,8 +1,8 @@
 ### Hi there 👋
 <div>
   
-  <a href = "mailto:adamorhenner2@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/adamorhenner/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:adamorhenner2@outlook.com"><img align="center" height="30" width="40" src="https://icongr.am/clarity/email.svg?size=128&color=ffffff" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/adamorhenner/" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
   </div>
   
 - 🔭 I’m currently working as a development intern
