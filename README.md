@@ -30,7 +30,7 @@ Here are a few things I've picked up along my learning journey.
   <img align="center" alt="Adam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Adam-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Adam-jsf" height="30" width="40" src="https://user-images.githubusercontent.com/53570263/148129712-8cdc09b2-a151-47e4-a2c6-aac56493f143.png">
-
+  <img align="center" alt="Adam-prime" height="30" width="120" src="https://user-images.githubusercontent.com/53570263/148130185-5591c302-5efe-475d-ac41-48842e33e96d.png">
 </div>
   
 
