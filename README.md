@@ -17,7 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamorhenner&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack and Tools
 Here are a few things I've picked up along my learning journey.
 <div style="display: inline_block"><br>
   <img align="center" alt="Adam-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -32,7 +32,7 @@ Here are a few things I've picked up along my learning journey.
   <img align="center" alt="Adam-prime" height="30" width="120" src="https://user-images.githubusercontent.com/53570263/148130185-5591c302-5efe-475d-ac41-48842e33e96d.png">
   <img align="center" alt="Adam-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Adam-gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
-  <img align="center" alt="Adam-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Adam-github" height="30" width="30" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg">
   <img align="center" alt="Adam-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
   
