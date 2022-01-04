@@ -29,7 +29,7 @@ Here are a few things I've picked up along my learning journey.
   <img align="center" alt="Adam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Adam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Adam-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Adam-jsf" height="30" width="40" src="https://user-images.githubusercontent.com/53570263/148126794-2d9a6899-d128-4509-9259-d96ecb874791.png">
+  <img align="center" alt="Adam-jsf" height="30" width="40" src="https://user-images.githubusercontent.com/53570263/148129712-8cdc09b2-a151-47e4-a2c6-aac56493f143.png">
 
 </div>
   
