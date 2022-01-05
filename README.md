@@ -9,7 +9,7 @@
 ### About Me 🚀
 - 🔭 I’m currently working as a development intern at [BoaVista](https://boavistatecnologia.com.br/)<br>
 - 👨‍🎓 Graduating in Information Systems at [UNI7](https://www.uni7.edu.br/)<br>
-- 🌱 I’m currently learning FRONTEND technologies
+- 🌱 At the moment i'm learning FRONTEND technologies
 - 👨‍💻 I’m an excellent Googler
 
 <div align="center">
