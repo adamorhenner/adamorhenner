@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">, I'm [Adamor Henner!](https://www.linkedin.com/in/adamorhenner/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="1px">, I'm [Adamor Henner!](https://www.linkedin.com/in/adamorhenner/) 
 
 <div>
   
