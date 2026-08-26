@@ -28,8 +28,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>
 </p>
-
-[![](https://github-readme-stats.vercel.app/api?username=adamorhenner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/adamorhenner)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adamorhenner&layout=compact&langs_count=7&theme=dracula)
-
-[![Snake animation](https://github.com/adamorhenner/adamorhenner/raw/output/github-contribution-grid-snake.svg)](https://github.com/adamorhenner/adamorhenner/blob/output/github-contribution-grid-snake.svg)
