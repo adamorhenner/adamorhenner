@@ -1,44 +1,35 @@
-## Hey, I'm [Adamor Henner!](https://www.linkedin.com/in/adamorhenner/) 
-
-<div>
-  
-  <a href = "mailto:adamorhenner2@outlook.com"><img align="center" height="30" width="40" src="https://icongr.am/entypo/mail.svg?size=128&color=007bff" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/adamorhenner/" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
-  </div>
+## Hey, I'm [Adamor Henner!](https://www.linkedin.com/in/adamorhenner/)
 
 ### About Me 🚀
-- 🔭 I’m currently working as a Developer at [BoaVista](https://boavistatecnologia.com.br/)<br>
-- 👨🏾‍🎓 Graduating in Information Systems at [UNI7](https://www.uni7.edu.br/)<br>
-- 👨🏾‍💻 backend developer
-- 🌱 At the moment i'm learning FRONTEND technologies
-- 🔎 I’m an excellent Googler
 
-<div align="center">
-  <a href="https://github.com/adamorhenner">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adamorhenner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamorhenner&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+- 💻 Full-Stack Developer with 5+ years of experience at a **bank reconciliation company**
+- 🎓 Graduated in Information Systems (UNI7)
+- 🔧 Currently working with **Java 17+, Spring Boot, React, and TypeScript**
+- 🧭 Technical reference for a core client onboarding system — taking on growing technical leadership responsibilities (architecture decisions, code review, technical discovery for new features)
+- 🔍 Background in decoupling monolithic systems into microservices and migrating legacy frontends (AngularJS → React)
 
-## ⚡ Tech Stack and Tools
-Here are a few things I've picked up along my learning journey.
-<div style="display: inline_block"><br>
-  <img align="center" alt="Adam-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Adam-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Adam-jsf" height="30" width="40" src="https://user-images.githubusercontent.com/53570263/148131263-11d312df-bb24-43f6-918a-e392da04c3c3.png">
-  <img align="center" alt="Adam-postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" >
-  <img align="center" alt="Adam-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Adam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Adam-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Adam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Adam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Adam-prime" height="30" width="120" src="https://user-images.githubusercontent.com/53570263/148130185-5591c302-5efe-475d-ac41-48842e33e96d.png">
-  <img align="center" alt="Adam-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Adam-gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
-  <img align="center" alt="Adam-github" height="30" width="30" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg">
-  <img align="center" alt="Adam-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
-  
+### ⚡ Tech Stack
 
-  ![Snake animation](https://github.com/adamorhenner/adamorhenner/blob/output/github-contribution-grid-snake.svg)
+**Backend:** Java · Spring Boot · JPA · REST APIs
+**Frontend:** React · TypeScript · JavaScript · HTML5 · CSS3
+**Database:** PostgreSQL · SQL
+**Testing:** JUnit 5 · Selenium · TDD
+**Tools:** Git · GitLab
 
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=adamorhenner.adamorhenner)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>
+</p>
+
+[![](https://github-readme-stats.vercel.app/api?username=adamorhenner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/adamorhenner)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adamorhenner&layout=compact&langs_count=7&theme=dracula)
+
+[![Snake animation](https://github.com/adamorhenner/adamorhenner/raw/output/github-contribution-grid-snake.svg)](https://github.com/adamorhenner/adamorhenner/blob/output/github-contribution-grid-snake.svg)
